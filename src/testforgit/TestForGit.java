@@ -7,7 +7,5 @@ public class TestForGit {
         System.out.println("Testing!");
         System.out.println("It is updated");
         System.out.println("Brach V2");
-
-    }
-    
+    } 
 }
